@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://s.hs-data.com/bilder/spieler/gross/284095.jpg');
+
+body{
+background-image:  url(https://images.unsplash.com/photo-1619204715997-1367fe5812f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1889&q=80);
+  
+  
+  
+  
+}
+
+
+
+}
+.players{
+  justify-content: space-between;
+  font-size: larger;
+ 
+
+}
+.play{
+  justify-content: space-around;
+  margin: 2rem;
+ 
+}
+
+.App {
+    text-align: center;
+  }
+
